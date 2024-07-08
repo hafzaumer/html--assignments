@@ -1,0 +1,48 @@
+div{
+    color: black;
+    height:300px;
+    width:500px;
+    background-color:white;
+    border-radius: 10px;
+}
+    h3{
+        color: #000;
+        font-weight: 600;
+        font-size: 20px;
+        font-family:'Times New Roman', Times, serif;
+       margin-top: 30px;
+       margin-left: 20px;
+      padding-top: 20px;
+    }
+    
+    #one{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-left: 10px;
+        padding: 10px;
+        font-size: 14px;
+
+    }
+    #two{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-left: 10px;
+        padding: 10px;
+        font-size: 14px;
+
+    }
+    #three{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-left: 10px;
+        padding: 10px;
+        font-size: 14px;
+    }
+    button{
+         height: 30px;
+      border-radius: 5px;
+        background-color: rgba(248, 54, 144, 0.945);
+        border:  rgba(248, 67, 152, 0.945);
+        color:white;
+       margin-bottom: 80px;
+       margin-left: 20px;
+       
+
+    }
